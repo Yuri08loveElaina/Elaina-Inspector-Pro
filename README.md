@@ -1,3 +1,4 @@
+## This project will be shared publicly. The following is just a brief introduction.
 # 🧠 Elaina Inspector Pro
 
 **Elaina Inspector Pro** is a cutting-edge cybersecurity GUI toolkit combining **reverse engineering**, **packet analysis**, **malware detection**, **firmware analysis**, **digital forensics**, and **automated vulnerability research** — developed by the elite Red Team unit **Elaina Core**.
