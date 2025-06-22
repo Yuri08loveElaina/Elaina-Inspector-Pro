@@ -134,12 +134,12 @@ Elaina Inspector Pro integrates multiple cybersecurity analysis engines into a u
 | **AI & Automation**      | One-click analysis, LLM auto-assist, exploit classification              |
 ## 👤 About the Author – Yuri08
 
-**Yuri08** is a young cybersecurity prodigy from Bắc Ninh, Vietnam. By the age of 14, he had already:
+**Yuri08** is a young cybersecurity expert from Bac Ninh, Vietnam. By the age of 14, he had already:
 
 - Written an entire operating system called **ElainaOS**  
 - Built his own compiled language (**ElainaLang**)  
-- Reverse engineered malware samples and C2 traffic  
-- Led the **Elaina Core** team in red team operations and exploit development  
+- Reverse engineered malware samples and C2 traffic
+- He possesses strong expertise in reverse engineering, penetration testing, binary exploitation, and digital forensics.
 
 His expertise includes:
 
