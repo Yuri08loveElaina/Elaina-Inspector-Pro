@@ -150,7 +150,7 @@ His expertise includes:
 - Protocol reversing, malware sandboxing  
 - Secure toolchain development (compiler, disassembler, emulator)  
 
-> “If you can read assembly, you can see through illusions. If you can write it, you can control reality.”  
+> “If you can read assembly, you understand how the computer really works — you're not fooled by the layers on top. If you can write it, you can pretty much control everything in the system..”  
 > — *Yuri08, creator of Elaina Core*
 
 ---
