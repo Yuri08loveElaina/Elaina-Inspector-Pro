@@ -140,7 +140,7 @@ Elaina Inspector Pro integrates multiple cybersecurity analysis engines into a u
 - Written an entire operating system called **ElainaOS**  
 - Built his own compiled language (**ElainaLang**)  
 - Reverse engineered malware samples and C2 traffic
-- He possesses strong expertise in reverse engineering, penetration testing, binary exploitation, and digital forensics.
+- possesses strong expertise in reverse engineering, penetration testing, binary exploitation, and digital forensics.
 
 His expertise includes:
 
@@ -181,20 +181,7 @@ Their focus includes:
 
 In today’s rapidly evolving cybersecurity landscape, the ability to analyze malware, reverse engineer binaries, and investigate network traffic effectively can make all the difference between securing a system and suffering a breach.
 
-We are excited to introduce **Elaina Inspector Pro**, a comprehensive and open-source security analysis platform designed by the Elaina Core team. Written in C with a sleek GTK3 interface, Elaina Inspector Pro unites the power of reverse engineering, malware analysis, network forensics, firmware dissection, and AI-assisted automation in a single, easy-to-use tool.
-
-#### Why Elaina Inspector Pro?
-
-Most existing tools specialize in one or two aspects of cybersecurity. Elaina Inspector Pro breaks that mold by integrating:
-
-- Advanced binary reverse engineering powered by Capstone  
-- Real-time network traffic capture, PCAP analysis, and replay functionality  
-- Deep malware behavior monitoring with API and syscall tracing  
-- Firmware extraction and embedded device analysis  
-- Automated vulnerability detection from proxy logs (Burp Suite, OWASP ZAP)  
-- Cryptographic decoding engines for XOR, AES, and more  
-- Forensics modules for disk analysis, log parsing, and timeline reconstruction  
-- AI-powered automation to accelerate analysis and generate actionable insights  
+We are excited to introduce **Elaina Inspector Pro**, a comprehensive and open-source security analysis platform designed by the Elaina Core team. Written in C with a sleek GTK3 interface, Elaina Inspector Pro unites the power of reverse engineering, malware analysis, network forensics, firmware dissection, and AI-assisted automation in a single, easy-to-use tool. 
 
 #### Who Is It For?
 
